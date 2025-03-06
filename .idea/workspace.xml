@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcefff55-0586-457c-9549-fe9aabc8115c" name="Changes" comment="" />
+    <list default="true" id="dcefff55-0586-457c-9549-fe9aabc8115c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/crypto/OneTimePad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/crypto/Vigenere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +29,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -41,18 +46,27 @@
     "Application.CaesarCipherApp.executor": "Run",
     "Application.HelloApplication.executor": "Run",
     "Application.MonoalphabeticCipherApp.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/McQueen/Documents/GitHub/Cryptography_Algo_By_Java",
-    "project.structure.last.edited": "Modules",
+    "last_opened_file_path": "D:/Projects/Cryptography_Algo_By_Java/src/main/java/com/example/crypto",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "project.structure.side.proportion": "0.25977013",
+    "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Cryptography_Algo_By_Java\src\main\java\com\example\crypto" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="MonoalphabeticCipherApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.crypto.MonoalphabeticCipherApp" />
