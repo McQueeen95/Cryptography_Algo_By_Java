@@ -92,9 +92,6 @@ public class MonoalphabeticCipherApp extends Application {
 			long endTime = System.nanoTime();
 			timeTextField.setText(""+(endTime-startTime));
 		});
-
-
-
 		// Layout setup.
 		VBox layout = new VBox(10, inputLabel, inputArea, loadFileButton, encryptButton , decryptButton, resultLabel, resultArea,time,timeTextField);
 		layout.setPadding(new Insets(10));
